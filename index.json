@@ -1,7 +1,4 @@
 {
-  "name": "Slack User Data",
-  "lists": [
-    {
       "name": "User Records",
       "records": [
         {
@@ -260,6 +257,6 @@
           "teamId": "T374095"
         }
       ]
-    }
+}
   ]
 }
