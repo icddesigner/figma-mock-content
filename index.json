@@ -3,7 +3,7 @@
     "lists": [
         {
             "name": "Email Id",
-            "url": "Email.txt"
+            "path": "Email.txt"
         },
         {
             "name": "Department",
