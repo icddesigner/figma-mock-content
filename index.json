@@ -1,0 +1,53 @@
+{
+    "name": "Default",
+    "lists": [
+        {
+            "name": "Email Id",
+            "url": "Email.txt"
+        },
+        {
+            "name": "Department",
+            "path": "Department.txt"
+        },
+        {
+            "name": "Manager Email",
+            "path": "Manager-Email.txt"
+        },
+        {
+            "name": "Full Name",
+            "path": "Full-Name.txt"
+        },
+        {
+            "name": "First Name",
+            "path": "First-Name.txt"
+        },
+        {
+            "name": "Last Name",
+            "path": "Last-Name.txt"
+        },
+        {
+            "name": "Title",
+            "path": "Title.txt"
+        },
+        {
+            "name": "Location",
+            "path": "Location.txt"
+        },
+        {
+            "name": "Team",
+            "path": "Team.txt"
+        },
+        {
+            "name": "Hire Date",
+            "path": "Hire-Date.txt"
+        },
+        {
+            "name": "Employment Type",
+            "path": "Employment-Type.txt"
+        },
+        {
+            "name": "Employment Status",
+            "path": "Employment-Status.txt"
+        }
+    ]
+}
